@@ -237,9 +237,6 @@ p {
     justify-content: center;
 }
 
-
-
-
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -271,4 +268,53 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+
+/* ABOUT PAGE */
+
+.about_top-image {
+    margin: 20px 0;
+}
+
+.about_top {
+    margin: 0 0 1.5em 0;
+    padding: 0 3%;
+    border-bottom: 1px dashed black;
+    font-weight: bold;
+}
+
+.about_middle {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-evenly;
+    justify-content: center;
+}
+
+.about_box {
+    width: 46%;
+    margin: 0 2%;
+}
+
+.about_box hr{
+    border: 1px dashed black;
+}
+
+.about_box img {
+    margin: 5% 0 2% 0;
+}
+
+.about_box .learnmore {
+    width: 30%;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 1em 0 0 0;
+    padding: 2%;
+    text-align: center;
+}
+
+.about_bottom {
+    margin: 1.5em 0;
+    padding: 0 3%;
+    font-weight: bold;
 }
