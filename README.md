@@ -47,7 +47,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-    A. Cross-
+    A. Cross-axis
     
 5. Explain why git is valuable to a team of developers.
 
